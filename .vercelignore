@@ -1,0 +1,9 @@
+# Ignore unnecessary files for deployment
+*.md
+.git/
+__pycache__/
+*.pyc
+.env
+.vscode/
+*.log
+Student.csv
