@@ -1,6 +1,4 @@
-flask>=3.0.0
-setuptools>=68.0.0
-gunicorn>=21.2.0
+streamlit
 pandas
 numpy
 scikit-learn
